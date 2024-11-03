@@ -1,0 +1,23 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.container{
+  display: flex;
+  justify-content: center;
+  margin-top: 4%;
+  font-size: 50px;
+
+  
+}
+.button-container{
+
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+  }
+  .button-container button {
+    margin:20px ;
+  }
+
+body {
+  transition: background-color 1s ease-in-out; 
+}
